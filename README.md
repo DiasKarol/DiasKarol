@@ -20,5 +20,5 @@ Neste perfil do GitHub, compartilho meus projetos, trabalhos individuais e estud
 
 ## Contato
 
-- Email: karol.gulbarg@gmail.com ou anakodias@gmail.com
+- Email: anakodias@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ana-dias-78a609146/
