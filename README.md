@@ -16,7 +16,16 @@ Além disso, estou complementando meus estudos por meio de um curso no Coursera,
 - Banco de Dados: SQL, MySQL, PostgreSQL
 - Controle de Versão: Git, GitHub
 
+
+## Estatísticas do GitHub
+
 Neste perfil do GitHub, compartilho meus projetos, trabalhos individuais e estudos relacionados ao desenvolvimento web. Sinta-se à vontade para explorar meu perfil e verificar os códigos e documentações dos projetos. Se tiver alguma pergunta ou sugestão, não hesite em entrar em contato comigo.
+
+<div>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=DiasKarol&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiasKarol&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 
 ## Contato
 
